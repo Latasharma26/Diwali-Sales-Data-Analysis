@@ -1,6 +1,5 @@
 # Diwali-Sales-Data-Analysis
 Project Title: Diwali Sales Analysis
-# Project Title: Diwali Sales Analysis
 # Overview
 📌 The Diwali Sales Analysis Dashboard is a comprehensive data analysis project that aims to analyze sales data during the Diwali festival season and provide valuable insights to drive business growth.<br>
 📌 The project combines the power of Power BI for interactive visualization and Python for advanced data analysis techniques.<br>
